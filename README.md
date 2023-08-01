@@ -1,7 +1,7 @@
 # ***<ins><div align="center"> Exequiel Vázquez </div></ins>***  
   
 
-### *<div align="center"> Full Stack Developer 👩‍💻</div>*  
+### *<div align="center"> Software Developer 👩‍💻</div>*  
   
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://wallpapercave.com/wp/wp4521293.png" alt="C" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
