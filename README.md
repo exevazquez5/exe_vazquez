@@ -5,7 +5,7 @@
   
 
 <div align="center">
-<img src="https://dewey.edu/wp-content/uploads/2020/08/cbanner..jpg" align="center" style="width: 100%" />
+<img src="https://44.media.tumblr.com/399fe53de81922475cee9625535cad87/b6e9fab45b1932fe-37/s500x750_f1/347efea8fbcef5bfe41726c1995223b3434d4f93.gifv" align="center" style="width: 100%" />
 </div>  
   
 
